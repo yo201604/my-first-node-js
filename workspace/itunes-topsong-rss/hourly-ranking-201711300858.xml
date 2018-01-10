@@ -1,0 +1,906 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+	<feed xmlns:im="http://itunes.apple.com/rss" xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
+		<id>https://itunes.apple.com/jp/rss/topsongs/limit=10/xml</id><title>iTunes Store: トップソング</title><updated>2017-11-30T00:10:21-07:00</updated><link rel="alternate" type="text/html" href="https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewTop?cc=jp&amp;id=1000&amp;popId=1"/><link rel="self" href="https://itunes.apple.com/jp/rss/topsongs/limit=10/xml"/><icon>http://itunes.apple.com/favicon.ico</icon><author><name>iTunes Store</name><uri>http://www.apple.com/jp/itunes/</uri></author><rights>Copyright 2008 Apple Inc.</rights>
+		
+			<entry>
+				<updated>2017-11-30T00:10:21-07:00</updated>
+				
+					<id im:id="1310424249">https://itunes.apple.com/jp/album/%E6%B8%85%E5%BB%89%E3%81%AA%E3%82%8Bheretics/1310422397?i=1310424249&amp;uo=2</id>
+				
+					<title>清廉なるHeretics - Fate/Grand Order</title>
+				
+					
+				
+					<im:name>清廉なるHeretics</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://itunes.apple.com/jp/album/%E6%B8%85%E5%BB%89%E3%81%AA%E3%82%8Bheretics/1310422397?i=1310424249&amp;uo=2"/>
+				
+					<im:contentType term="Music" label="ミュージック"><im:contentType term="Track" label="トラック"/></im:contentType>
+				
+					<category im:id="29" term="Anime" scheme="https://itunes.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-%E3%82%A2%E3%83%8B%E3%83%A1/id29?uo=2" label="アニメ"/>
+				
+					<link title="プレビュー" rel="enclosure" type="audio/x-m4a" href="https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview128/v4/cc/83/50/cc8350b5-1813-1ae0-61d8-1f44f26ac7d5/mzaf_3954116109050713226.plus.aac.p.m4a" im:assetType="preview"><im:duration>30000</im:duration></link>
+				
+					<im:artist href="https://itunes.apple.com/jp/artist/fate-grand-order/1213260393?uo=2">Fate/Grand Order</im:artist>
+				
+					<im:price amount="250.00000" currency="JPY">¥250</im:price>
+				
+					<im:image height="55">http://is1.mzstatic.com/image/thumb/Music128/v4/b9/21/4a/b9214a69-6f8c-eb84-6301-f72e63c3dec1/jacket_ANXX00831B01A_550.jpg/55x55bb-85.jpg</im:image>
+				
+					<im:image height="60">http://is2.mzstatic.com/image/thumb/Music128/v4/b9/21/4a/b9214a69-6f8c-eb84-6301-f72e63c3dec1/jacket_ANXX00831B01A_550.jpg/60x60bb-85.jpg</im:image>
+				
+					<im:image height="170">http://is2.mzstatic.com/image/thumb/Music128/v4/b9/21/4a/b9214a69-6f8c-eb84-6301-f72e63c3dec1/jacket_ANXX00831B01A_550.jpg/170x170bb-85.jpg</im:image>
+				
+					<rights>&#8471; 2017 Aniplex Inc.</rights>
+				
+					<im:releaseDate label="2017年11月29日 ">2017-11-29T00:00:00-07:00</im:releaseDate>
+				
+					<im:collection><im:name>清廉なるHeretics - Single</im:name><link rel="alternate" type="text/html" href="https://itunes.apple.com/jp/album/%E6%B8%85%E5%BB%89%E3%81%AA%E3%82%8Bheretics-single/1310422397?uo=2"/><im:contentType term="Music" label="ミュージック"><im:contentType term="Album" label="アルバム"/></im:contentType></im:collection>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://itunes.apple.com/jp/album/%E6%B8%85%E5%BB%89%E3%81%AA%E3%82%8Bheretics/1310422397?i=1310424249&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;Fate/Grand Order - 清廉なるHeretics アートワーク&quot; src=&quot;http://is2.mzstatic.com/image/thumb/Music128/v4/b9/21/4a/b9214a69-6f8c-eb84-6301-f72e63c3dec1/jacket_ANXX00831B01A_550.jpg/170x170bb-85.jpg&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://itunes.apple.com/jp/album/%E6%B8%85%E5%BB%89%E3%81%AA%E3%82%8Bheretics/1310422397?i=1310424249&amp;uo=2&quot;&gt;清廉なるHeretics&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+                            &lt;a href=&quot;https://itunes.apple.com/jp/album/%E6%B8%85%E5%BB%89%E3%81%AA%E3%82%8Bheretics-single/1310422397?uo=2&quot;&gt;清廉なるHeretics - Single&lt;/a&gt;&lt;br/&gt;
+                        
+
+                        &lt;a href=&quot;https://itunes.apple.com/jp/artist/fate-grand-order/1213260393?uo=2&quot;&gt;Fate/Grand Order&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;ジャンル:&lt;/b&gt; &lt;a href=&quot;https://itunes.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-%E3%82%A2%E3%83%8B%E3%83%A1/id29?uo=2&quot;&gt;アニメ&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;価格:&lt;/b&gt; ¥250
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;リリース日:&lt;/b&gt; 2017年11月29日 
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; ℗ 2017 Aniplex Inc.&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2017-11-30T00:10:21-07:00</updated>
+				
+					<id im:id="1305659452">https://itunes.apple.com/jp/album/%E5%8B%95%E3%81%8F-%E5%8B%95%E3%81%8F/1305659046?i=1305659452&amp;uo=2</id>
+				
+					<title>動く、動く - チト(CV:水瀬いのり)、ユーリ(CV:久保ユリカ)</title>
+				
+					
+				
+					<im:name>動く、動く</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://itunes.apple.com/jp/album/%E5%8B%95%E3%81%8F-%E5%8B%95%E3%81%8F/1305659046?i=1305659452&amp;uo=2"/>
+				
+					<im:contentType term="Music" label="ミュージック"><im:contentType term="Track" label="トラック"/></im:contentType>
+				
+					<category im:id="29" term="Anime" scheme="https://itunes.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-%E3%82%A2%E3%83%8B%E3%83%A1/id29?uo=2" label="アニメ"/>
+				
+					<link title="プレビュー" rel="enclosure" type="audio/x-m4a" href="https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview118/v4/fe/42/51/fe425199-d7b7-32b2-99bd-4b3f718aaaea/mzaf_6854941552351753292.plus.aac.p.m4a" im:assetType="preview"><im:duration>30000</im:duration></link>
+				
+					<im:artist href="https://itunes.apple.com/jp/artist/%E3%83%81%E3%83%88-cv-%E6%B0%B4%E7%80%AC%E3%81%84%E3%81%AE%E3%82%8A/1305659446?uo=2">チト(CV:水瀬いのり)、ユーリ(CV:久保ユリカ)</im:artist>
+				
+					<im:price amount="250.00000" currency="JPY">¥250</im:price>
+				
+					<im:image height="55">http://is4.mzstatic.com/image/thumb/Music128/v4/ae/cd/d8/aecdd846-62ac-6e50-6642-f3d6f1ebf98f/JK_ZMCZ-11749.jpg/55x55bb-85.jpg</im:image>
+				
+					<im:image height="60">http://is5.mzstatic.com/image/thumb/Music128/v4/ae/cd/d8/aecdd846-62ac-6e50-6642-f3d6f1ebf98f/JK_ZMCZ-11749.jpg/60x60bb-85.jpg</im:image>
+				
+					<im:image height="170">http://is5.mzstatic.com/image/thumb/Music128/v4/ae/cd/d8/aecdd846-62ac-6e50-6642-f3d6f1ebf98f/JK_ZMCZ-11749.jpg/170x170bb-85.jpg</im:image>
+				
+					<rights>&#8471; 2017 KADOKAWA CORPORATION</rights>
+				
+					<im:releaseDate label="2017年11月29日 ">2017-11-29T00:00:00-07:00</im:releaseDate>
+				
+					<im:collection><im:name>TVアニメ「少女終末旅行」オープニングテーマ「動く、動く」 - EP</im:name><link rel="alternate" type="text/html" href="https://itunes.apple.com/jp/album/tv%E3%82%A2%E3%83%8B%E3%83%A1-%E5%B0%91%E5%A5%B3%E7%B5%82%E6%9C%AB%E6%97%85%E8%A1%8C-%E3%82%AA%E3%83%BC%E3%83%97%E3%83%8B%E3%83%B3%E3%82%B0%E3%83%86%E3%83%BC%E3%83%9E-%E5%8B%95%E3%81%8F-%E5%8B%95%E3%81%8F-ep/1305659046?uo=2"/><im:contentType term="Music" label="ミュージック"><im:contentType term="Album" label="アルバム"/></im:contentType></im:collection>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://itunes.apple.com/jp/album/%E5%8B%95%E3%81%8F-%E5%8B%95%E3%81%8F/1305659046?i=1305659452&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;チト(CV:水瀬いのり)、ユーリ(CV:久保ユリカ) - 動く、動く アートワーク&quot; src=&quot;http://is5.mzstatic.com/image/thumb/Music128/v4/ae/cd/d8/aecdd846-62ac-6e50-6642-f3d6f1ebf98f/JK_ZMCZ-11749.jpg/170x170bb-85.jpg&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://itunes.apple.com/jp/album/%E5%8B%95%E3%81%8F-%E5%8B%95%E3%81%8F/1305659046?i=1305659452&amp;uo=2&quot;&gt;動く、動く&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+                            &lt;a href=&quot;https://itunes.apple.com/jp/album/tv%E3%82%A2%E3%83%8B%E3%83%A1-%E5%B0%91%E5%A5%B3%E7%B5%82%E6%9C%AB%E6%97%85%E8%A1%8C-%E3%82%AA%E3%83%BC%E3%83%97%E3%83%8B%E3%83%B3%E3%82%B0%E3%83%86%E3%83%BC%E3%83%9E-%E5%8B%95%E3%81%8F-%E5%8B%95%E3%81%8F-ep/1305659046?uo=2&quot;&gt;TVアニメ「少女終末旅行」オープニングテーマ「動く、動く」 - EP&lt;/a&gt;&lt;br/&gt;
+                        
+
+                        &lt;a href=&quot;https://itunes.apple.com/jp/artist/%E3%83%81%E3%83%88-cv-%E6%B0%B4%E7%80%AC%E3%81%84%E3%81%AE%E3%82%8A/1305659446?uo=2&quot;&gt;チト(CV:水瀬いのり)、ユーリ(CV:久保ユリカ)&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;ジャンル:&lt;/b&gt; &lt;a href=&quot;https://itunes.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-%E3%82%A2%E3%83%8B%E3%83%A1/id29?uo=2&quot;&gt;アニメ&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;価格:&lt;/b&gt; ¥250
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;リリース日:&lt;/b&gt; 2017年11月29日 
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; ℗ 2017 KADOKAWA CORPORATION&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2017-11-30T00:10:21-07:00</updated>
+				
+					<id im:id="1313271347">https://itunes.apple.com/jp/album/my%E8%88%9E-tonight/1313271341?i=1313271347&amp;uo=2</id>
+				
+					<title>MY舞☆TONIGHT - Aqours</title>
+				
+					
+				
+					<im:name>MY舞☆TONIGHT</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://itunes.apple.com/jp/album/my%E8%88%9E-tonight/1313271341?i=1313271347&amp;uo=2"/>
+				
+					<im:contentType term="Music" label="ミュージック"><im:contentType term="Track" label="トラック"/></im:contentType>
+				
+					<category im:id="29" term="Anime" scheme="https://itunes.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-%E3%82%A2%E3%83%8B%E3%83%A1/id29?uo=2" label="アニメ"/>
+				
+					<link title="プレビュー" rel="enclosure" type="audio/x-m4a" href="https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview118/v4/86/fc/4d/86fc4dfb-d898-33f9-d0b0-3cb84b9c3990/mzaf_6337568998311518446.plus.aac.p.m4a" im:assetType="preview"><im:duration>30000</im:duration></link>
+				
+					<im:artist href="https://itunes.apple.com/jp/artist/aqours/1045917820?uo=2">Aqours</im:artist>
+				
+					<im:price amount="250.00000" currency="JPY">¥250</im:price>
+				
+					<im:image height="55">http://is3.mzstatic.com/image/thumb/Music118/v4/17/90/ff/1790ff50-3515-cd6b-8eb1-939a63e560a4/LACM-14691.jpg/55x55bb-85.jpg</im:image>
+				
+					<im:image height="60">http://is4.mzstatic.com/image/thumb/Music118/v4/17/90/ff/1790ff50-3515-cd6b-8eb1-939a63e560a4/LACM-14691.jpg/60x60bb-85.jpg</im:image>
+				
+					<im:image height="170">http://is4.mzstatic.com/image/thumb/Music118/v4/17/90/ff/1790ff50-3515-cd6b-8eb1-939a63e560a4/LACM-14691.jpg/170x170bb-85.jpg</im:image>
+				
+					<rights>&#8471; ランティス</rights>
+				
+					<im:releaseDate label="2017年11月29日 ">2017-11-29T00:00:00-07:00</im:releaseDate>
+				
+					<im:collection><im:name>MY舞☆TONIGHT/MIRACLE WAVE - Single</im:name><link rel="alternate" type="text/html" href="https://itunes.apple.com/jp/album/my%E8%88%9E-tonight-miracle-wave-single/1313271341?uo=2"/><im:contentType term="Music" label="ミュージック"><im:contentType term="Album" label="アルバム"/></im:contentType></im:collection>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://itunes.apple.com/jp/album/my%E8%88%9E-tonight/1313271341?i=1313271347&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;Aqours - MY舞☆TONIGHT アートワーク&quot; src=&quot;http://is4.mzstatic.com/image/thumb/Music118/v4/17/90/ff/1790ff50-3515-cd6b-8eb1-939a63e560a4/LACM-14691.jpg/170x170bb-85.jpg&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://itunes.apple.com/jp/album/my%E8%88%9E-tonight/1313271341?i=1313271347&amp;uo=2&quot;&gt;MY舞☆TONIGHT&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+                            &lt;a href=&quot;https://itunes.apple.com/jp/album/my%E8%88%9E-tonight-miracle-wave-single/1313271341?uo=2&quot;&gt;MY舞☆TONIGHT/MIRACLE WAVE - Single&lt;/a&gt;&lt;br/&gt;
+                        
+
+                        &lt;a href=&quot;https://itunes.apple.com/jp/artist/aqours/1045917820?uo=2&quot;&gt;Aqours&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;ジャンル:&lt;/b&gt; &lt;a href=&quot;https://itunes.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-%E3%82%A2%E3%83%8B%E3%83%A1/id29?uo=2&quot;&gt;アニメ&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;価格:&lt;/b&gt; ¥250
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;リリース日:&lt;/b&gt; 2017年11月29日 
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; ℗ ランティス&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2017-11-30T00:10:21-07:00</updated>
+				
+					<id im:id="1305695852">https://itunes.apple.com/jp/album/more-one-night/1305695846?i=1305695852&amp;uo=2</id>
+				
+					<title>More One Night - チト(CV:水瀬いのり)、ユーリ(CV:久保ユリカ)</title>
+				
+					
+				
+					<im:name>More One Night</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://itunes.apple.com/jp/album/more-one-night/1305695846?i=1305695852&amp;uo=2"/>
+				
+					<im:contentType term="Music" label="ミュージック"><im:contentType term="Track" label="トラック"/></im:contentType>
+				
+					<category im:id="29" term="Anime" scheme="https://itunes.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-%E3%82%A2%E3%83%8B%E3%83%A1/id29?uo=2" label="アニメ"/>
+				
+					<link title="プレビュー" rel="enclosure" type="audio/x-m4a" href="https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview128/v4/23/2b/2f/232b2f26-18af-a12b-1e54-81fffc9efa5a/mzaf_2251336773073529548.plus.aac.p.m4a" im:assetType="preview"><im:duration>30000</im:duration></link>
+				
+					<im:artist href="https://itunes.apple.com/jp/artist/%E3%83%81%E3%83%88-cv-%E6%B0%B4%E7%80%AC%E3%81%84%E3%81%AE%E3%82%8A/1305659446?uo=2">チト(CV:水瀬いのり)、ユーリ(CV:久保ユリカ)</im:artist>
+				
+					<im:price amount="250.00000" currency="JPY">¥250</im:price>
+				
+					<im:image height="55">http://is5.mzstatic.com/image/thumb/Music128/v4/60/d9/f4/60d9f435-5df1-ebc0-1f96-794c52d338e2/JK_ZMCZ-11750.jpg/55x55bb-85.jpg</im:image>
+				
+					<im:image height="60">http://is1.mzstatic.com/image/thumb/Music128/v4/60/d9/f4/60d9f435-5df1-ebc0-1f96-794c52d338e2/JK_ZMCZ-11750.jpg/60x60bb-85.jpg</im:image>
+				
+					<im:image height="170">http://is3.mzstatic.com/image/thumb/Music128/v4/60/d9/f4/60d9f435-5df1-ebc0-1f96-794c52d338e2/JK_ZMCZ-11750.jpg/170x170bb-85.jpg</im:image>
+				
+					<rights>&#8471; 2017 KADOKAWA CORPORATION</rights>
+				
+					<im:releaseDate label="2017年11月29日 ">2017-11-29T00:00:00-07:00</im:releaseDate>
+				
+					<im:collection><im:name>TVアニメ「少女終末旅行」エンディングテーマ「More One Night」 - EP</im:name><link rel="alternate" type="text/html" href="https://itunes.apple.com/jp/album/tv%E3%82%A2%E3%83%8B%E3%83%A1-%E5%B0%91%E5%A5%B3%E7%B5%82%E6%9C%AB%E6%97%85%E8%A1%8C-%E3%82%A8%E3%83%B3%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%86%E3%83%BC%E3%83%9E-more-one-night-ep/1305695846?uo=2"/><im:contentType term="Music" label="ミュージック"><im:contentType term="Album" label="アルバム"/></im:contentType></im:collection>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://itunes.apple.com/jp/album/more-one-night/1305695846?i=1305695852&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;チト(CV:水瀬いのり)、ユーリ(CV:久保ユリカ) - More One Night アートワーク&quot; src=&quot;http://is3.mzstatic.com/image/thumb/Music128/v4/60/d9/f4/60d9f435-5df1-ebc0-1f96-794c52d338e2/JK_ZMCZ-11750.jpg/170x170bb-85.jpg&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://itunes.apple.com/jp/album/more-one-night/1305695846?i=1305695852&amp;uo=2&quot;&gt;More One Night&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+                            &lt;a href=&quot;https://itunes.apple.com/jp/album/tv%E3%82%A2%E3%83%8B%E3%83%A1-%E5%B0%91%E5%A5%B3%E7%B5%82%E6%9C%AB%E6%97%85%E8%A1%8C-%E3%82%A8%E3%83%B3%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%86%E3%83%BC%E3%83%9E-more-one-night-ep/1305695846?uo=2&quot;&gt;TVアニメ「少女終末旅行」エンディングテーマ「More One Night」 - EP&lt;/a&gt;&lt;br/&gt;
+                        
+
+                        &lt;a href=&quot;https://itunes.apple.com/jp/artist/%E3%83%81%E3%83%88-cv-%E6%B0%B4%E7%80%AC%E3%81%84%E3%81%AE%E3%82%8A/1305659446?uo=2&quot;&gt;チト(CV:水瀬いのり)、ユーリ(CV:久保ユリカ)&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;ジャンル:&lt;/b&gt; &lt;a href=&quot;https://itunes.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-%E3%82%A2%E3%83%8B%E3%83%A1/id29?uo=2&quot;&gt;アニメ&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;価格:&lt;/b&gt; ¥250
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;リリース日:&lt;/b&gt; 2017年11月29日 
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; ℗ 2017 KADOKAWA CORPORATION&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2017-11-30T00:10:21-07:00</updated>
+				
+					<id im:id="1314834967">https://itunes.apple.com/jp/album/j-s-b-happiness/1314834962?i=1314834967&amp;uo=2</id>
+				
+					<title>J.S.B. HAPPINESS - 三代目 J Soul Brothers from EXILE TRIBE</title>
+				
+					
+				
+					<im:name>J.S.B. HAPPINESS</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://itunes.apple.com/jp/album/j-s-b-happiness/1314834962?i=1314834967&amp;uo=2"/>
+				
+					<im:contentType term="Music" label="ミュージック"><im:contentType term="Track" label="トラック"/></im:contentType>
+				
+					<category im:id="27" term="J-Pop" scheme="https://itunes.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-j-pop/id27?uo=2" label="J-Pop"/>
+				
+					<link title="プレビュー" rel="enclosure" type="audio/x-m4a" href="https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview118/v4/96/85/e6/9685e613-2995-0481-2a45-5fffa21cf953/mzaf_38410476803206432.plus.aac.p.m4a" im:assetType="preview"><im:duration>30000</im:duration></link>
+				
+					<im:artist href="https://itunes.apple.com/jp/artist/%E4%B8%89%E4%BB%A3%E7%9B%AE-j-soul-brothers-from-exile-tribe/633832735?uo=2">三代目 J Soul Brothers from EXILE TRIBE</im:artist>
+				
+					<im:price amount="250.00000" currency="JPY">¥250</im:price>
+				
+					<im:image height="55">http://is2.mzstatic.com/image/thumb/Music118/v4/bf/31/54/bf315407-bcc7-08d2-3a0b-57766594ef07/dj.miiwnhjs.jpg/55x55bb-85.jpg</im:image>
+				
+					<im:image height="60">http://is3.mzstatic.com/image/thumb/Music118/v4/bf/31/54/bf315407-bcc7-08d2-3a0b-57766594ef07/dj.miiwnhjs.jpg/60x60bb-85.jpg</im:image>
+				
+					<im:image height="170">http://is4.mzstatic.com/image/thumb/Music118/v4/bf/31/54/bf315407-bcc7-08d2-3a0b-57766594ef07/dj.miiwnhjs.jpg/170x170bb-85.jpg</im:image>
+				
+					<rights>&#8471; 2017 AVEX ENTERTAINMENT INC.</rights>
+				
+					<im:releaseDate label="2017年12月13日 ">2017-12-13T00:00:00-07:00</im:releaseDate>
+				
+					<im:collection><im:name>J.S.B. HAPPINESS - EP</im:name><link rel="alternate" type="text/html" href="https://itunes.apple.com/jp/album/j-s-b-happiness-ep/1314834962?uo=2"/><im:contentType term="Music" label="ミュージック"><im:contentType term="Album" label="アルバム"/></im:contentType></im:collection>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://itunes.apple.com/jp/album/j-s-b-happiness/1314834962?i=1314834967&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;三代目 J Soul Brothers from EXILE TRIBE - J.S.B. HAPPINESS アートワーク&quot; src=&quot;http://is4.mzstatic.com/image/thumb/Music118/v4/bf/31/54/bf315407-bcc7-08d2-3a0b-57766594ef07/dj.miiwnhjs.jpg/170x170bb-85.jpg&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://itunes.apple.com/jp/album/j-s-b-happiness/1314834962?i=1314834967&amp;uo=2&quot;&gt;J.S.B. HAPPINESS&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+                            &lt;a href=&quot;https://itunes.apple.com/jp/album/j-s-b-happiness-ep/1314834962?uo=2&quot;&gt;J.S.B. HAPPINESS - EP&lt;/a&gt;&lt;br/&gt;
+                        
+
+                        &lt;a href=&quot;https://itunes.apple.com/jp/artist/%E4%B8%89%E4%BB%A3%E7%9B%AE-j-soul-brothers-from-exile-tribe/633832735?uo=2&quot;&gt;三代目 J Soul Brothers from EXILE TRIBE&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;ジャンル:&lt;/b&gt; &lt;a href=&quot;https://itunes.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-j-pop/id27?uo=2&quot;&gt;J-Pop&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;価格:&lt;/b&gt; ¥250
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;リリース予定日:&lt;/b&gt; 2017年12月13日 
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; ℗ 2017 AVEX ENTERTAINMENT INC.&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2017-11-30T00:10:21-07:00</updated>
+				
+					<id im:id="1313667048">https://itunes.apple.com/jp/album/horizon/1313666466?i=1313667048&amp;uo=2</id>
+				
+					<title>Horizon - THE YELLOW MONKEY</title>
+				
+					
+				
+					<im:name>Horizon</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://itunes.apple.com/jp/album/horizon/1313666466?i=1313667048&amp;uo=2"/>
+				
+					<im:contentType term="Music" label="ミュージック"><im:contentType term="Track" label="トラック"/></im:contentType>
+				
+					<category im:id="21" term="Rock" scheme="https://itunes.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-%E3%83%AD%E3%83%83%E3%82%AF/id21?uo=2" label="ロック"/>
+				
+					<link title="プレビュー" rel="enclosure" type="audio/x-m4a" href="https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview128/v4/04/3c/c5/043cc5f7-167b-7297-e238-72c6fef02c79/mzaf_5317426443588870501.plus.aac.p.m4a" im:assetType="preview"><im:duration>30000</im:duration></link>
+				
+					<im:artist href="https://itunes.apple.com/jp/artist/the-yellow-monkey/207718853?uo=2">THE YELLOW MONKEY</im:artist>
+				
+					<im:price amount="250.00000" currency="JPY">¥250</im:price>
+				
+					<im:image height="55">http://is4.mzstatic.com/image/thumb/Music128/v4/cd/49/39/cd493909-26fe-f188-fd3f-3538673f5d67/COKM-40182.jpg/55x55bb-85.jpg</im:image>
+				
+					<im:image height="60">http://is5.mzstatic.com/image/thumb/Music128/v4/cd/49/39/cd493909-26fe-f188-fd3f-3538673f5d67/COKM-40182.jpg/60x60bb-85.jpg</im:image>
+				
+					<im:image height="170">http://is2.mzstatic.com/image/thumb/Music128/v4/cd/49/39/cd493909-26fe-f188-fd3f-3538673f5d67/COKM-40182.jpg/170x170bb-85.jpg</im:image>
+				
+					<rights>&#8471; 2017 TYMS PROJECT</rights>
+				
+					<im:releaseDate label="2017年11月29日 ">2017-11-29T00:00:00-07:00</im:releaseDate>
+				
+					<im:collection><im:name>Horizon - Single</im:name><link rel="alternate" type="text/html" href="https://itunes.apple.com/jp/album/horizon-single/1313666466?uo=2"/><im:contentType term="Music" label="ミュージック"><im:contentType term="Album" label="アルバム"/></im:contentType></im:collection>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://itunes.apple.com/jp/album/horizon/1313666466?i=1313667048&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;THE YELLOW MONKEY - Horizon アートワーク&quot; src=&quot;http://is2.mzstatic.com/image/thumb/Music128/v4/cd/49/39/cd493909-26fe-f188-fd3f-3538673f5d67/COKM-40182.jpg/170x170bb-85.jpg&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://itunes.apple.com/jp/album/horizon/1313666466?i=1313667048&amp;uo=2&quot;&gt;Horizon&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+                            &lt;a href=&quot;https://itunes.apple.com/jp/album/horizon-single/1313666466?uo=2&quot;&gt;Horizon - Single&lt;/a&gt;&lt;br/&gt;
+                        
+
+                        &lt;a href=&quot;https://itunes.apple.com/jp/artist/the-yellow-monkey/207718853?uo=2&quot;&gt;THE YELLOW MONKEY&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;ジャンル:&lt;/b&gt; &lt;a href=&quot;https://itunes.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-%E3%83%AD%E3%83%83%E3%82%AF/id21?uo=2&quot;&gt;ロック&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;価格:&lt;/b&gt; ¥250
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;リリース日:&lt;/b&gt; 2017年11月29日 
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; ℗ 2017 TYMS PROJECT&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2017-11-30T00:10:21-07:00</updated>
+				
+					<id im:id="1309675011">https://itunes.apple.com/jp/album/%E6%98%8E%E6%97%A5-%E3%81%BE%E3%81%9F/1309674417?i=1309675011&amp;uo=2</id>
+				
+					<title>明日、また - [Alexandros]</title>
+				
+					
+				
+					<im:name>明日、また</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://itunes.apple.com/jp/album/%E6%98%8E%E6%97%A5-%E3%81%BE%E3%81%9F/1309674417?i=1309675011&amp;uo=2"/>
+				
+					<im:contentType term="Music" label="ミュージック"><im:contentType term="Track" label="トラック"/></im:contentType>
+				
+					<category im:id="21" term="Rock" scheme="https://itunes.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-%E3%83%AD%E3%83%83%E3%82%AF/id21?uo=2" label="ロック"/>
+				
+					<link title="プレビュー" rel="enclosure" type="audio/x-m4a" href="https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview128/v4/7c/67/39/7c67394d-7ca4-7481-fb33-0a31ca70a04b/mzaf_5867884234464695441.plus.aac.p.m4a" im:assetType="preview"><im:duration>30000</im:duration></link>
+				
+					<im:artist href="https://itunes.apple.com/jp/artist/alexandros/350239299?uo=2">[Alexandros]</im:artist>
+				
+					<im:price amount="250.00000" currency="JPY">¥250</im:price>
+				
+					<im:image height="55">http://is2.mzstatic.com/image/thumb/Music118/v4/bd/4f/fa/bd4ffa46-ed8c-4fe2-5a22-78c88cc887b5/17UM1IM44786.jpg/55x55bb-85.jpg</im:image>
+				
+					<im:image height="60">http://is3.mzstatic.com/image/thumb/Music118/v4/bd/4f/fa/bd4ffa46-ed8c-4fe2-5a22-78c88cc887b5/17UM1IM44786.jpg/60x60bb-85.jpg</im:image>
+				
+					<im:image height="170">http://is1.mzstatic.com/image/thumb/Music118/v4/bd/4f/fa/bd4ffa46-ed8c-4fe2-5a22-78c88cc887b5/17UM1IM44786.jpg/170x170bb-85.jpg</im:image>
+				
+					<rights>A UNIVERSAL J / RX-RECORDS release; &#8471;2017 UNIVERSAL MUSIC LLC</rights>
+				
+					<im:releaseDate label="2017年11月29日 ">2017-11-29T00:00:00-07:00</im:releaseDate>
+				
+					<im:collection><im:name>明日、また - Single</im:name><link rel="alternate" type="text/html" href="https://itunes.apple.com/jp/album/ashita-mata-single/1309674417?uo=2"/><im:contentType term="Music" label="ミュージック"><im:contentType term="Album" label="アルバム"/></im:contentType></im:collection>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://itunes.apple.com/jp/album/%E6%98%8E%E6%97%A5-%E3%81%BE%E3%81%9F/1309674417?i=1309675011&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;[Alexandros] - 明日、また アートワーク&quot; src=&quot;http://is1.mzstatic.com/image/thumb/Music118/v4/bd/4f/fa/bd4ffa46-ed8c-4fe2-5a22-78c88cc887b5/17UM1IM44786.jpg/170x170bb-85.jpg&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://itunes.apple.com/jp/album/%E6%98%8E%E6%97%A5-%E3%81%BE%E3%81%9F/1309674417?i=1309675011&amp;uo=2&quot;&gt;明日、また&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+                            &lt;a href=&quot;https://itunes.apple.com/jp/album/ashita-mata-single/1309674417?uo=2&quot;&gt;明日、また - Single&lt;/a&gt;&lt;br/&gt;
+                        
+
+                        &lt;a href=&quot;https://itunes.apple.com/jp/artist/alexandros/350239299?uo=2&quot;&gt;[Alexandros]&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;ジャンル:&lt;/b&gt; &lt;a href=&quot;https://itunes.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-%E3%83%AD%E3%83%83%E3%82%AF/id21?uo=2&quot;&gt;ロック&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;価格:&lt;/b&gt; ¥250
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;リリース日:&lt;/b&gt; 2017年11月29日 
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; A UNIVERSAL J / RX-RECORDS release; ℗2017 UNIVERSAL MUSIC LLC&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2017-11-30T00:10:21-07:00</updated>
+				
+					<id im:id="1317171044">https://itunes.apple.com/jp/album/determination-symphony/1317171042?i=1317171044&amp;uo=2</id>
+				
+					<title>Determination Symphony - Roselia</title>
+				
+					
+				
+					<im:name>Determination Symphony</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://itunes.apple.com/jp/album/determination-symphony/1317171042?i=1317171044&amp;uo=2"/>
+				
+					<im:contentType term="Music" label="ミュージック"><im:contentType term="Track" label="トラック"/></im:contentType>
+				
+					<category im:id="29" term="Anime" scheme="https://itunes.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-%E3%82%A2%E3%83%8B%E3%83%A1/id29?uo=2" label="アニメ"/>
+				
+					<link title="プレビュー" rel="enclosure" type="audio/x-m4a" href="https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview128/v4/62/18/7d/62187d87-12d0-42d8-d562-40f5c54e0fae/mzaf_5459774951118977985.plus.aac.p.m4a" im:assetType="preview"><im:duration>30000</im:duration></link>
+				
+					<im:artist href="https://itunes.apple.com/jp/artist/roselia/1226561403?uo=2">Roselia</im:artist>
+				
+					<im:price amount="250.00000" currency="JPY">¥250</im:price>
+				
+					<im:image height="55">http://is5.mzstatic.com/image/thumb/Music122/v4/98/85/0c/98850cfa-0163-b638-1323-25345b0a5ff4/BRMM10103jk.jpg/55x55bb-85.jpg</im:image>
+				
+					<im:image height="60">http://is1.mzstatic.com/image/thumb/Music122/v4/98/85/0c/98850cfa-0163-b638-1323-25345b0a5ff4/BRMM10103jk.jpg/60x60bb-85.jpg</im:image>
+				
+					<im:image height="170">http://is1.mzstatic.com/image/thumb/Music122/v4/98/85/0c/98850cfa-0163-b638-1323-25345b0a5ff4/BRMM10103jk.jpg/170x170bb-85.jpg</im:image>
+				
+					<rights>&#8471; 2017 Bushiroad Music</rights>
+				
+					<im:releaseDate label="2017年11月29日 ">2017-11-29T00:00:00-07:00</im:releaseDate>
+				
+					<im:collection><im:name>ONENESS - EP</im:name><link rel="alternate" type="text/html" href="https://itunes.apple.com/jp/album/oneness-ep/1317171042?uo=2"/><im:contentType term="Music" label="ミュージック"><im:contentType term="Album" label="アルバム"/></im:contentType></im:collection>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://itunes.apple.com/jp/album/determination-symphony/1317171042?i=1317171044&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;Roselia - Determination Symphony アートワーク&quot; src=&quot;http://is1.mzstatic.com/image/thumb/Music122/v4/98/85/0c/98850cfa-0163-b638-1323-25345b0a5ff4/BRMM10103jk.jpg/170x170bb-85.jpg&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://itunes.apple.com/jp/album/determination-symphony/1317171042?i=1317171044&amp;uo=2&quot;&gt;Determination Symphony&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+                            &lt;a href=&quot;https://itunes.apple.com/jp/album/oneness-ep/1317171042?uo=2&quot;&gt;ONENESS - EP&lt;/a&gt;&lt;br/&gt;
+                        
+
+                        &lt;a href=&quot;https://itunes.apple.com/jp/artist/roselia/1226561403?uo=2&quot;&gt;Roselia&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;ジャンル:&lt;/b&gt; &lt;a href=&quot;https://itunes.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-%E3%82%A2%E3%83%8B%E3%83%A1/id29?uo=2&quot;&gt;アニメ&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;価格:&lt;/b&gt; ¥250
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;リリース日:&lt;/b&gt; 2017年11月29日 
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; ℗ 2017 Bushiroad Music&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2017-11-30T00:10:21-07:00</updated>
+				
+					<id im:id="1304978423">https://itunes.apple.com/jp/album/fake-town-baby/1304978420?i=1304978423&amp;uo=2</id>
+				
+					<title>fake town baby - UNISON SQUARE GARDEN</title>
+				
+					
+				
+					<im:name>fake town baby</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://itunes.apple.com/jp/album/fake-town-baby/1304978420?i=1304978423&amp;uo=2"/>
+				
+					<im:contentType term="Music" label="ミュージック"><im:contentType term="Track" label="トラック"/></im:contentType>
+				
+					<category im:id="27" term="J-Pop" scheme="https://itunes.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-j-pop/id27?uo=2" label="J-Pop"/>
+				
+					<link title="プレビュー" rel="enclosure" type="audio/x-m4a" href="https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview128/v4/8b/89/93/8b8993e7-5d9d-826a-2357-935b3dd73d50/mzaf_5155957773813544555.plus.aac.p.m4a" im:assetType="preview"><im:duration>30000</im:duration></link>
+				
+					<im:artist href="https://itunes.apple.com/jp/artist/unison-square-garden/270311351?uo=2">UNISON SQUARE GARDEN</im:artist>
+				
+					<im:price amount="250.00000" currency="JPY">¥250</im:price>
+				
+					<im:image height="55">http://is4.mzstatic.com/image/thumb/Music118/v4/a2/df/42/a2df42ce-66aa-651e-0668-063e3e2ba5fe/TFCC-89642WW.jpg/55x55bb-85.jpg</im:image>
+				
+					<im:image height="60">http://is5.mzstatic.com/image/thumb/Music118/v4/a2/df/42/a2df42ce-66aa-651e-0668-063e3e2ba5fe/TFCC-89642WW.jpg/60x60bb-85.jpg</im:image>
+				
+					<im:image height="170">http://is5.mzstatic.com/image/thumb/Music118/v4/a2/df/42/a2df42ce-66aa-651e-0668-063e3e2ba5fe/TFCC-89642WW.jpg/170x170bb-85.jpg</im:image>
+				
+					<rights>&#8471; 2017 TOY&#39;S FACTORY</rights>
+				
+					<im:releaseDate label="2017年11月15日 ">2017-11-15T00:00:00-07:00</im:releaseDate>
+				
+					<im:collection><im:name>fake town baby - Single</im:name><link rel="alternate" type="text/html" href="https://itunes.apple.com/jp/album/fake-town-baby-single/1304978420?uo=2"/><im:contentType term="Music" label="ミュージック"><im:contentType term="Album" label="アルバム"/></im:contentType></im:collection>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://itunes.apple.com/jp/album/fake-town-baby/1304978420?i=1304978423&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;UNISON SQUARE GARDEN - fake town baby アートワーク&quot; src=&quot;http://is5.mzstatic.com/image/thumb/Music118/v4/a2/df/42/a2df42ce-66aa-651e-0668-063e3e2ba5fe/TFCC-89642WW.jpg/170x170bb-85.jpg&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://itunes.apple.com/jp/album/fake-town-baby/1304978420?i=1304978423&amp;uo=2&quot;&gt;fake town baby&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+                            &lt;a href=&quot;https://itunes.apple.com/jp/album/fake-town-baby-single/1304978420?uo=2&quot;&gt;fake town baby - Single&lt;/a&gt;&lt;br/&gt;
+                        
+
+                        &lt;a href=&quot;https://itunes.apple.com/jp/artist/unison-square-garden/270311351?uo=2&quot;&gt;UNISON SQUARE GARDEN&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;ジャンル:&lt;/b&gt; &lt;a href=&quot;https://itunes.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-j-pop/id27?uo=2&quot;&gt;J-Pop&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;価格:&lt;/b&gt; ¥250
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;リリース日:&lt;/b&gt; 2017年11月15日 
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; ℗ 2017 TOY'S FACTORY&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2017-11-30T00:10:21-07:00</updated>
+				
+					<id im:id="1317171043">https://itunes.apple.com/jp/album/oneness/1317171042?i=1317171043&amp;uo=2</id>
+				
+					<title>ONENESS - Roselia</title>
+				
+					
+				
+					<im:name>ONENESS</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://itunes.apple.com/jp/album/oneness/1317171042?i=1317171043&amp;uo=2"/>
+				
+					<im:contentType term="Music" label="ミュージック"><im:contentType term="Track" label="トラック"/></im:contentType>
+				
+					<category im:id="29" term="Anime" scheme="https://itunes.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-%E3%82%A2%E3%83%8B%E3%83%A1/id29?uo=2" label="アニメ"/>
+				
+					<link title="プレビュー" rel="enclosure" type="audio/x-m4a" href="https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview128/v4/16/eb/55/16eb5511-a050-fd1e-9162-47e0f7431fee/mzaf_1757376387279051831.plus.aac.p.m4a" im:assetType="preview"><im:duration>30000</im:duration></link>
+				
+					<im:artist href="https://itunes.apple.com/jp/artist/roselia/1226561403?uo=2">Roselia</im:artist>
+				
+					<im:price amount="250.00000" currency="JPY">¥250</im:price>
+				
+					<im:image height="55">http://is5.mzstatic.com/image/thumb/Music122/v4/98/85/0c/98850cfa-0163-b638-1323-25345b0a5ff4/BRMM10103jk.jpg/55x55bb-85.jpg</im:image>
+				
+					<im:image height="60">http://is1.mzstatic.com/image/thumb/Music122/v4/98/85/0c/98850cfa-0163-b638-1323-25345b0a5ff4/BRMM10103jk.jpg/60x60bb-85.jpg</im:image>
+				
+					<im:image height="170">http://is1.mzstatic.com/image/thumb/Music122/v4/98/85/0c/98850cfa-0163-b638-1323-25345b0a5ff4/BRMM10103jk.jpg/170x170bb-85.jpg</im:image>
+				
+					<rights>&#8471; 2017 Bushiroad Music</rights>
+				
+					<im:releaseDate label="2017年11月29日 ">2017-11-29T00:00:00-07:00</im:releaseDate>
+				
+					<im:collection><im:name>ONENESS - EP</im:name><link rel="alternate" type="text/html" href="https://itunes.apple.com/jp/album/oneness-ep/1317171042?uo=2"/><im:contentType term="Music" label="ミュージック"><im:contentType term="Album" label="アルバム"/></im:contentType></im:collection>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://itunes.apple.com/jp/album/oneness/1317171042?i=1317171043&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;Roselia - ONENESS アートワーク&quot; src=&quot;http://is1.mzstatic.com/image/thumb/Music122/v4/98/85/0c/98850cfa-0163-b638-1323-25345b0a5ff4/BRMM10103jk.jpg/170x170bb-85.jpg&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://itunes.apple.com/jp/album/oneness/1317171042?i=1317171043&amp;uo=2&quot;&gt;ONENESS&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+                            &lt;a href=&quot;https://itunes.apple.com/jp/album/oneness-ep/1317171042?uo=2&quot;&gt;ONENESS - EP&lt;/a&gt;&lt;br/&gt;
+                        
+
+                        &lt;a href=&quot;https://itunes.apple.com/jp/artist/roselia/1226561403?uo=2&quot;&gt;Roselia&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;ジャンル:&lt;/b&gt; &lt;a href=&quot;https://itunes.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-%E3%82%A2%E3%83%8B%E3%83%A1/id29?uo=2&quot;&gt;アニメ&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;価格:&lt;/b&gt; ¥250
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;リリース日:&lt;/b&gt; 2017年11月29日 
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; ℗ 2017 Bushiroad Music&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+	</feed>

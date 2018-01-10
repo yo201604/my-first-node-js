@@ -1,0 +1,271 @@
+# この viminfo ファイルは Vim 7.4 によって生成されました.
+# 変更する際には十分注意してください!
+
+# このファイルが書かれた時の 'encoding' の値
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# 最後の 検索パターン:
+~MSle0~/3.1
+
+# コマンドライン 項目の履歴 (新しいものから古いものへ):
+:wq
+:q!
+:q
+:w
+
+# 検索文字列 項目の履歴 (新しいものから古いものへ):
+?/3.1
+?/2.6
+
+# 式 項目の履歴 (新しいものから古いものへ):
+
+# 入力行 項目の履歴 (新しいものから古いものへ):
+
+# 入力行 項目の履歴 (新しいものから古いものへ):
+
+# レジスタ:
+"1	LINE	0
+	     b) スミレは青い、
+"2	LINE	0
+	
+"3	LINE	0
+	     c) 知恵とは学ぶもの、
+"4	LINE	0
+	
+"5	LINE	0
+	     c) 知恵とは学ぶもの、
+	
+"6	LINE	0
+	     a) バラは赤い、
+"7	LINE	0
+	--->  6)  砂
+"8	LINE	0
+	--->  4)  私は車をもっている、
+	--->  5)  時計が時刻を告げる、
+"9	LINE	0
+	--->  2)  つまらないものは楽しい、
+""-	CHAR	0
+	に
+
+# ファイルマーク:
+'0  5  3  ~/workspace/git-study/wise.md
+'1  1  0  ~/workspace/git-study/index.html
+'2  9  67  ~/workspace/git-study/index.html
+'3  11  6  ~/workspace/git-study/index.html
+'4  5  122  ~/workspace/git-study/README.md
+'5  24  1  /tmp/crontab.BhIWrg/crontab
+'6  24  0  /tmp/crontab.64fWCL/crontab
+'7  24  54  /tmp/crontab.1XoGm8/crontab
+'8  23  2  /tmp/crontab.6dq5xr/crontab
+'9  386  5  /tmp/tutorkXtxMP
+
+# ジャンプリスト (新しいものが先):
+-'  5  3  ~/workspace/git-study/wise.md
+-'  1  0  ~/workspace/git-study/wise.md
+-'  1  0  ~/workspace/git-study/index.html
+-'  9  67  ~/workspace/git-study/index.html
+-'  11  6  ~/workspace/git-study/index.html
+-'  5  122  ~/workspace/git-study/README.md
+-'  1  0  ~/workspace/git-study/README.md
+-'  24  1  /tmp/crontab.BhIWrg/crontab
+-'  1  0  /tmp/crontab.BhIWrg/crontab
+-'  24  0  /tmp/crontab.64fWCL/crontab
+-'  1  0  /tmp/crontab.64fWCL/crontab
+-'  24  54  /tmp/crontab.1XoGm8/crontab
+-'  1  0  /tmp/crontab.1XoGm8/crontab
+-'  23  2  /tmp/crontab.6dq5xr/crontab
+-'  1  0  /tmp/crontab.6dq5xr/crontab
+-'  386  5  /tmp/tutorkXtxMP
+-'  300  17  /tmp/tutorkXtxMP
+-'  328  0  /tmp/tutorkXtxMP
+-'  1  0  /tmp/tutorkXtxMP
+-'  223  5  /tmp/tutorAPBMVj
+-'  1  0  /tmp/tutorAPBMVj
+-'  200  5  /tmp/tutorIa4tDj
+-'  1  0  /tmp/tutorIa4tDj
+-'  1  3  ~/workspace/vim-study/tutor
+-'  159  32  /tmp/tutorzrZSfh
+-'  1  0  /tmp/tutorzrZSfh
+-'  67  8  /tmp/tutorwl2SQV
+-'  1  0  /tmp/tutorwl2SQV
+-'  1  0  ~/workspace/vim-study/test.txt
+-'  17  0  ~/.profile
+-'  1  0  ~/.profile
+-'  17  0  ~/.profile
+-'  1  0  ~/.profile
+-'  159  32  /tmp/tutorzrZSfh
+-'  1  0  /tmp/tutorzrZSfh
+-'  67  8  /tmp/tutorwl2SQV
+-'  1  0  /tmp/tutorwl2SQV
+-'  1  0  ~/workspace/vim-study/test.txt
+-'  17  0  ~/.profile
+-'  1  0  ~/.profile
+-'  17  0  ~/.profile
+-'  1  0  ~/.profile
+-'  386  5  /tmp/tutorkXtxMP
+-'  300  17  /tmp/tutorkXtxMP
+-'  328  0  /tmp/tutorkXtxMP
+-'  1  0  /tmp/tutorkXtxMP
+-'  223  5  /tmp/tutorAPBMVj
+-'  1  0  /tmp/tutorAPBMVj
+-'  200  5  /tmp/tutorIa4tDj
+-'  1  0  /tmp/tutorIa4tDj
+-'  1  3  ~/workspace/vim-study/tutor
+-'  159  32  /tmp/tutorzrZSfh
+-'  1  0  /tmp/tutorzrZSfh
+-'  67  8  /tmp/tutorwl2SQV
+-'  1  0  /tmp/tutorwl2SQV
+-'  1  0  ~/workspace/vim-study/test.txt
+-'  17  0  ~/.profile
+-'  1  0  ~/.profile
+-'  17  0  ~/.profile
+-'  1  0  ~/.profile
+-'  159  32  /tmp/tutorzrZSfh
+-'  1  0  /tmp/tutorzrZSfh
+-'  67  8  /tmp/tutorwl2SQV
+-'  1  0  /tmp/tutorwl2SQV
+-'  1  0  ~/workspace/vim-study/test.txt
+-'  17  0  ~/.profile
+-'  1  0  ~/.profile
+-'  17  0  ~/.profile
+-'  1  0  ~/.profile
+-'  23  2  /tmp/crontab.6dq5xr/crontab
+-'  1  0  /tmp/crontab.6dq5xr/crontab
+-'  386  5  /tmp/tutorkXtxMP
+-'  300  17  /tmp/tutorkXtxMP
+-'  328  0  /tmp/tutorkXtxMP
+-'  1  0  /tmp/tutorkXtxMP
+-'  223  5  /tmp/tutorAPBMVj
+-'  1  0  /tmp/tutorAPBMVj
+-'  200  5  /tmp/tutorIa4tDj
+-'  1  0  /tmp/tutorIa4tDj
+-'  1  3  ~/workspace/vim-study/tutor
+-'  159  32  /tmp/tutorzrZSfh
+-'  1  0  /tmp/tutorzrZSfh
+-'  67  8  /tmp/tutorwl2SQV
+-'  1  0  /tmp/tutorwl2SQV
+-'  1  0  ~/workspace/vim-study/test.txt
+-'  17  0  ~/.profile
+-'  1  0  ~/.profile
+-'  17  0  ~/.profile
+-'  1  0  ~/.profile
+-'  159  32  /tmp/tutorzrZSfh
+-'  1  0  /tmp/tutorzrZSfh
+-'  67  8  /tmp/tutorwl2SQV
+-'  1  0  /tmp/tutorwl2SQV
+-'  1  0  ~/workspace/vim-study/test.txt
+-'  17  0  ~/.profile
+-'  1  0  ~/.profile
+-'  17  0  ~/.profile
+
+# ファイル内マークの履歴 (新しいものから古いもの):
+
+> ~/workspace/git-study/wise.md
+	"	5	3
+	^	5	33
+	.	5	3
+	+	5	39
+	+	5	36
+	+	5	36
+	+	6	0
+	+	5	3
+
+> ~/workspace/git-study/index.html
+	"	1	0
+	^	9	68
+	.	9	67
+	+	1	15
+	+	2	16
+	+	4	23
+	+	11	6
+	+	9	67
+
+> ~/workspace/git-study/README.md
+	"	5	122
+	^	5	125
+	.	6	0
+	+	6	0
+
+> /tmp/crontab.BhIWrg/crontab
+	"	24	1
+	^	24	2
+	.	24	1
+	+	24	1
+
+> /tmp/crontab.64fWCL/crontab
+	"	24	0
+
+> /tmp/crontab.1XoGm8/crontab
+	"	24	54
+	^	24	55
+	.	24	54
+	+	24	54
+
+> /tmp/crontab.6dq5xr/crontab
+	"	23	2
+	^	23	3
+	.	23	3
+	+	24	0
+	+	23	3
+
+> /tmp/tutorkXtxMP
+	"	386	5
+	.	380	0
+	+	223	17
+	+	252	0
+	+	293	14
+	+	314	0
+	+	315	0
+	+	314	13
+	+	315	0
+	+	383	0
+	+	384	0
+	+	382	0
+	+	381	0
+	+	382	0
+	+	383	0
+	+	380	0
+
+> /tmp/tutorAPBMVj
+	"	223	5
+	^	223	11
+	.	223	5
+	+	203	23
+	+	223	5
+
+> /tmp/tutorIa4tDj
+	"	200	5
+	.	203	5
+	+	203	5
+
+> ~/workspace/vim-study/tutor
+	"	1	3
+	^	1	4
+	.	1	3
+	+	1	3
+
+> /tmp/tutorzrZSfh
+	"	159	32
+	^	133	56
+	.	133	56
+	+	87	0
+	+	83	59
+	+	108	62
+	+	131	56
+	+	133	56
+
+> /tmp/tutorwl2SQV
+	"	67	8
+	^	22	14
+	.	22	14
+	+	35	0
+	+	22	14
+
+> ~/workspace/vim-study/test.txt
+	"	1	0
+
+> ~/.profile
+	"	17	0

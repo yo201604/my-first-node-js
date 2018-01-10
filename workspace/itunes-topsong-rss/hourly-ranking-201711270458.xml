@@ -1,0 +1,906 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+	<feed xmlns:im="http://itunes.apple.com/rss" xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
+		<id>https://itunes.apple.com/jp/rss/topsongs/limit=10/xml</id><title>iTunes Store: トップソング</title><updated>2017-11-26T19:50:12-07:00</updated><link rel="alternate" type="text/html" href="https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewTop?cc=jp&amp;id=1000&amp;popId=1"/><link rel="self" href="https://itunes.apple.com/jp/rss/topsongs/limit=10/xml"/><icon>http://itunes.apple.com/favicon.ico</icon><author><name>iTunes Store</name><uri>http://www.apple.com/jp/itunes/</uri></author><rights>Copyright 2008 Apple Inc.</rights>
+		
+			<entry>
+				<updated>2017-11-26T19:50:12-07:00</updated>
+				
+					<id im:id="1304978423">https://itunes.apple.com/jp/album/fake-town-baby/1304978420?i=1304978423&amp;uo=2</id>
+				
+					<title>fake town baby - UNISON SQUARE GARDEN</title>
+				
+					
+				
+					<im:name>fake town baby</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://itunes.apple.com/jp/album/fake-town-baby/1304978420?i=1304978423&amp;uo=2"/>
+				
+					<im:contentType term="Music" label="ミュージック"><im:contentType term="Track" label="トラック"/></im:contentType>
+				
+					<category im:id="27" term="J-Pop" scheme="https://itunes.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-j-pop/id27?uo=2" label="J-Pop"/>
+				
+					<link title="プレビュー" rel="enclosure" type="audio/x-m4a" href="https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview128/v4/8b/89/93/8b8993e7-5d9d-826a-2357-935b3dd73d50/mzaf_5155957773813544555.plus.aac.p.m4a" im:assetType="preview"><im:duration>30000</im:duration></link>
+				
+					<im:artist href="https://itunes.apple.com/jp/artist/unison-square-garden/270311351?uo=2">UNISON SQUARE GARDEN</im:artist>
+				
+					<im:price amount="250.00000" currency="JPY">¥250</im:price>
+				
+					<im:image height="55">http://is4.mzstatic.com/image/thumb/Music118/v4/a2/df/42/a2df42ce-66aa-651e-0668-063e3e2ba5fe/TFCC-89642WW.jpg/55x55bb-85.jpg</im:image>
+				
+					<im:image height="60">http://is5.mzstatic.com/image/thumb/Music118/v4/a2/df/42/a2df42ce-66aa-651e-0668-063e3e2ba5fe/TFCC-89642WW.jpg/60x60bb-85.jpg</im:image>
+				
+					<im:image height="170">http://is5.mzstatic.com/image/thumb/Music118/v4/a2/df/42/a2df42ce-66aa-651e-0668-063e3e2ba5fe/TFCC-89642WW.jpg/170x170bb-85.jpg</im:image>
+				
+					<rights>&#8471; 2017 TOY&#39;S FACTORY</rights>
+				
+					<im:releaseDate label="2017年11月15日 ">2017-11-15T00:00:00-07:00</im:releaseDate>
+				
+					<im:collection><im:name>fake town baby - Single</im:name><link rel="alternate" type="text/html" href="https://itunes.apple.com/jp/album/fake-town-baby-single/1304978420?uo=2"/><im:contentType term="Music" label="ミュージック"><im:contentType term="Album" label="アルバム"/></im:contentType></im:collection>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://itunes.apple.com/jp/album/fake-town-baby/1304978420?i=1304978423&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;UNISON SQUARE GARDEN - fake town baby アートワーク&quot; src=&quot;http://is5.mzstatic.com/image/thumb/Music118/v4/a2/df/42/a2df42ce-66aa-651e-0668-063e3e2ba5fe/TFCC-89642WW.jpg/170x170bb-85.jpg&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://itunes.apple.com/jp/album/fake-town-baby/1304978420?i=1304978423&amp;uo=2&quot;&gt;fake town baby&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+                            &lt;a href=&quot;https://itunes.apple.com/jp/album/fake-town-baby-single/1304978420?uo=2&quot;&gt;fake town baby - Single&lt;/a&gt;&lt;br/&gt;
+                        
+
+                        &lt;a href=&quot;https://itunes.apple.com/jp/artist/unison-square-garden/270311351?uo=2&quot;&gt;UNISON SQUARE GARDEN&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;ジャンル:&lt;/b&gt; &lt;a href=&quot;https://itunes.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-j-pop/id27?uo=2&quot;&gt;J-Pop&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;価格:&lt;/b&gt; ¥250
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;リリース日:&lt;/b&gt; 2017年11月15日 
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; ℗ 2017 TOY'S FACTORY&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2017-11-26T19:50:12-07:00</updated>
+				
+					<id im:id="1292541886">https://itunes.apple.com/jp/album/%E7%81%B0%E8%89%B2%E3%81%A8%E9%9D%92-%E8%8F%85%E7%94%B0%E5%B0%86%E6%9A%89/1292541373?i=1292541886&amp;uo=2</id>
+				
+					<title>灰色と青 ( + 菅田将暉 ) - 米津玄師</title>
+				
+					
+				
+					<im:name>灰色と青 ( + 菅田将暉 )</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://itunes.apple.com/jp/album/%E7%81%B0%E8%89%B2%E3%81%A8%E9%9D%92-%E8%8F%85%E7%94%B0%E5%B0%86%E6%9A%89/1292541373?i=1292541886&amp;uo=2"/>
+				
+					<im:contentType term="Music" label="ミュージック"><im:contentType term="Track" label="トラック"/></im:contentType>
+				
+					<category im:id="27" term="J-Pop" scheme="https://itunes.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-j-pop/id27?uo=2" label="J-Pop"/>
+				
+					<link title="プレビュー" rel="enclosure" type="audio/x-m4a" href="https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview128/v4/6a/42/da/6a42da79-155d-13e6-a774-67cd203bcbac/mzaf_4172816473092114167.plus.aac.p.m4a" im:assetType="preview"><im:duration>30000</im:duration></link>
+				
+					<im:artist href="https://itunes.apple.com/jp/artist/%E7%B1%B3%E6%B4%A5%E7%8E%84%E5%B8%AB/530814268?uo=2">米津玄師</im:artist>
+				
+					<im:price amount="250.00000" currency="JPY">¥250</im:price>
+				
+					<im:image height="55">http://is1.mzstatic.com/image/thumb/Music128/v4/a2/cb/b0/a2cbb04e-4dce-9afe-b96f-7f9603cb7fad/jacket_SRCL09571B01A_550.jpg/55x55bb-85.jpg</im:image>
+				
+					<im:image height="60">http://is2.mzstatic.com/image/thumb/Music128/v4/a2/cb/b0/a2cbb04e-4dce-9afe-b96f-7f9603cb7fad/jacket_SRCL09571B01A_550.jpg/60x60bb-85.jpg</im:image>
+				
+					<im:image height="170">http://is4.mzstatic.com/image/thumb/Music128/v4/a2/cb/b0/a2cbb04e-4dce-9afe-b96f-7f9603cb7fad/jacket_SRCL09571B01A_550.jpg/170x170bb-85.jpg</im:image>
+				
+					<rights>&#8471; 2017 Sony Music Records</rights>
+				
+					<im:releaseDate label="2017年11月1日 ">2017-11-01T00:00:00-07:00</im:releaseDate>
+				
+					<im:collection><im:name>BOOTLEG</im:name><link rel="alternate" type="text/html" href="https://itunes.apple.com/jp/album/bootleg/1292541373?uo=2"/><im:contentType term="Music" label="ミュージック"><im:contentType term="Album" label="アルバム"/></im:contentType></im:collection>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://itunes.apple.com/jp/album/%E7%81%B0%E8%89%B2%E3%81%A8%E9%9D%92-%E8%8F%85%E7%94%B0%E5%B0%86%E6%9A%89/1292541373?i=1292541886&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;米津玄師 - 灰色と青 ( + 菅田将暉 ) アートワーク&quot; src=&quot;http://is4.mzstatic.com/image/thumb/Music128/v4/a2/cb/b0/a2cbb04e-4dce-9afe-b96f-7f9603cb7fad/jacket_SRCL09571B01A_550.jpg/170x170bb-85.jpg&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://itunes.apple.com/jp/album/%E7%81%B0%E8%89%B2%E3%81%A8%E9%9D%92-%E8%8F%85%E7%94%B0%E5%B0%86%E6%9A%89/1292541373?i=1292541886&amp;uo=2&quot;&gt;灰色と青 ( + 菅田将暉 )&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+                            &lt;a href=&quot;https://itunes.apple.com/jp/album/bootleg/1292541373?uo=2&quot;&gt;BOOTLEG&lt;/a&gt;&lt;br/&gt;
+                        
+
+                        &lt;a href=&quot;https://itunes.apple.com/jp/artist/%E7%B1%B3%E6%B4%A5%E7%8E%84%E5%B8%AB/530814268?uo=2&quot;&gt;米津玄師&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;ジャンル:&lt;/b&gt; &lt;a href=&quot;https://itunes.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-j-pop/id27?uo=2&quot;&gt;J-Pop&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;価格:&lt;/b&gt; ¥250
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;リリース日:&lt;/b&gt; 2017年11月1日 
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; ℗ 2017 Sony Music Records&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2017-11-26T19:50:12-07:00</updated>
+				
+					<id im:id="1295630752">https://itunes.apple.com/jp/album/%E3%83%95%E3%83%A9%E3%83%83%E3%82%B0%E3%82%92%E7%AB%8B%E3%81%A6%E3%82%8D/1295630161?i=1295630752&amp;uo=2</id>
+				
+					<title>フラッグを立てろ - YUKI</title>
+				
+					
+				
+					<im:name>フラッグを立てろ</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://itunes.apple.com/jp/album/%E3%83%95%E3%83%A9%E3%83%83%E3%82%B0%E3%82%92%E7%AB%8B%E3%81%A6%E3%82%8D/1295630161?i=1295630752&amp;uo=2"/>
+				
+					<im:contentType term="Music" label="ミュージック"><im:contentType term="Track" label="トラック"/></im:contentType>
+				
+					<category im:id="27" term="J-Pop" scheme="https://itunes.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-j-pop/id27?uo=2" label="J-Pop"/>
+				
+					<link title="プレビュー" rel="enclosure" type="audio/x-m4a" href="https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview118/v4/ba/03/85/ba03857b-cd5c-2916-b4d0-47562efbf4cd/mzaf_2032779300135418642.plus.aac.p.m4a" im:assetType="preview"><im:duration>30000</im:duration></link>
+				
+					<im:artist href="https://itunes.apple.com/jp/artist/yuki/572340068?uo=2">YUKI</im:artist>
+				
+					<im:price amount="250.00000" currency="JPY">¥250</im:price>
+				
+					<im:image height="55">http://is1.mzstatic.com/image/thumb/Music128/v4/07/94/88/0794884d-b08d-a5b1-d518-877f16bf9091/jacket_ESCL04933B01A_550.jpg/55x55bb-85.jpg</im:image>
+				
+					<im:image height="60">http://is2.mzstatic.com/image/thumb/Music128/v4/07/94/88/0794884d-b08d-a5b1-d518-877f16bf9091/jacket_ESCL04933B01A_550.jpg/60x60bb-85.jpg</im:image>
+				
+					<im:image height="170">http://is3.mzstatic.com/image/thumb/Music128/v4/07/94/88/0794884d-b08d-a5b1-d518-877f16bf9091/jacket_ESCL04933B01A_550.jpg/170x170bb-85.jpg</im:image>
+				
+					<rights>&#8471; 2017 Epic Records Japan</rights>
+				
+					<im:releaseDate label="2017年11月15日 ">2017-11-15T00:00:00-07:00</im:releaseDate>
+				
+					<im:collection><im:name>フラッグを立てろ - Single</im:name><link rel="alternate" type="text/html" href="https://itunes.apple.com/jp/album/%E3%83%95%E3%83%A9%E3%83%83%E3%82%B0%E3%82%92%E7%AB%8B%E3%81%A6%E3%82%8D-single/1295630161?uo=2"/><im:contentType term="Music" label="ミュージック"><im:contentType term="Album" label="アルバム"/></im:contentType></im:collection>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://itunes.apple.com/jp/album/%E3%83%95%E3%83%A9%E3%83%83%E3%82%B0%E3%82%92%E7%AB%8B%E3%81%A6%E3%82%8D/1295630161?i=1295630752&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;YUKI - フラッグを立てろ アートワーク&quot; src=&quot;http://is3.mzstatic.com/image/thumb/Music128/v4/07/94/88/0794884d-b08d-a5b1-d518-877f16bf9091/jacket_ESCL04933B01A_550.jpg/170x170bb-85.jpg&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://itunes.apple.com/jp/album/%E3%83%95%E3%83%A9%E3%83%83%E3%82%B0%E3%82%92%E7%AB%8B%E3%81%A6%E3%82%8D/1295630161?i=1295630752&amp;uo=2&quot;&gt;フラッグを立てろ&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+                            &lt;a href=&quot;https://itunes.apple.com/jp/album/%E3%83%95%E3%83%A9%E3%83%83%E3%82%B0%E3%82%92%E7%AB%8B%E3%81%A6%E3%82%8D-single/1295630161?uo=2&quot;&gt;フラッグを立てろ - Single&lt;/a&gt;&lt;br/&gt;
+                        
+
+                        &lt;a href=&quot;https://itunes.apple.com/jp/artist/yuki/572340068?uo=2&quot;&gt;YUKI&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;ジャンル:&lt;/b&gt; &lt;a href=&quot;https://itunes.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-j-pop/id27?uo=2&quot;&gt;J-Pop&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;価格:&lt;/b&gt; ¥250
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;リリース日:&lt;/b&gt; 2017年11月15日 
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; ℗ 2017 Epic Records Japan&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2017-11-26T19:50:12-07:00</updated>
+				
+					<id im:id="1304973654">https://itunes.apple.com/jp/album/invisible-sensation/1304973334?i=1304973654&amp;uo=2</id>
+				
+					<title>Invisible Sensation - UNISON SQUARE GARDEN</title>
+				
+					
+				
+					<im:name>Invisible Sensation</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://itunes.apple.com/jp/album/invisible-sensation/1304973334?i=1304973654&amp;uo=2"/>
+				
+					<im:contentType term="Music" label="ミュージック"><im:contentType term="Track" label="トラック"/></im:contentType>
+				
+					<category im:id="27" term="J-Pop" scheme="https://itunes.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-j-pop/id27?uo=2" label="J-Pop"/>
+				
+					<link title="プレビュー" rel="enclosure" type="audio/x-m4a" href="https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview128/v4/9d/90/68/9d9068b5-4edf-ce9a-d8e9-c06be6a20639/mzaf_8808444428087113962.plus.aac.p.m4a" im:assetType="preview"><im:duration>30000</im:duration></link>
+				
+					<im:artist href="https://itunes.apple.com/jp/artist/unison-square-garden/270311351?uo=2">UNISON SQUARE GARDEN</im:artist>
+				
+					<im:price amount="250.00000" currency="JPY">¥250</im:price>
+				
+					<im:image height="55">http://is2.mzstatic.com/image/thumb/Music128/v4/a0/30/a6/a030a6d6-68db-96ca-45d9-279789276f50/TFCC-89640WW.jpg/55x55bb-85.jpg</im:image>
+				
+					<im:image height="60">http://is3.mzstatic.com/image/thumb/Music128/v4/a0/30/a6/a030a6d6-68db-96ca-45d9-279789276f50/TFCC-89640WW.jpg/60x60bb-85.jpg</im:image>
+				
+					<im:image height="170">http://is2.mzstatic.com/image/thumb/Music128/v4/a0/30/a6/a030a6d6-68db-96ca-45d9-279789276f50/TFCC-89640WW.jpg/170x170bb-85.jpg</im:image>
+				
+					<rights>&#8471; 2017 TOY&#39;S FACTORY</rights>
+				
+					<im:releaseDate label="2017年11月8日 ">2017-11-08T00:00:00-07:00</im:releaseDate>
+				
+					<im:collection><im:name>Invisible Sensation - Single</im:name><link rel="alternate" type="text/html" href="https://itunes.apple.com/jp/album/invisible-sensation-single/1304973334?uo=2"/><im:contentType term="Music" label="ミュージック"><im:contentType term="Album" label="アルバム"/></im:contentType></im:collection>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://itunes.apple.com/jp/album/invisible-sensation/1304973334?i=1304973654&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;UNISON SQUARE GARDEN - Invisible Sensation アートワーク&quot; src=&quot;http://is2.mzstatic.com/image/thumb/Music128/v4/a0/30/a6/a030a6d6-68db-96ca-45d9-279789276f50/TFCC-89640WW.jpg/170x170bb-85.jpg&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://itunes.apple.com/jp/album/invisible-sensation/1304973334?i=1304973654&amp;uo=2&quot;&gt;Invisible Sensation&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+                            &lt;a href=&quot;https://itunes.apple.com/jp/album/invisible-sensation-single/1304973334?uo=2&quot;&gt;Invisible Sensation - Single&lt;/a&gt;&lt;br/&gt;
+                        
+
+                        &lt;a href=&quot;https://itunes.apple.com/jp/artist/unison-square-garden/270311351?uo=2&quot;&gt;UNISON SQUARE GARDEN&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;ジャンル:&lt;/b&gt; &lt;a href=&quot;https://itunes.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-j-pop/id27?uo=2&quot;&gt;J-Pop&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;価格:&lt;/b&gt; ¥250
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;リリース日:&lt;/b&gt; 2017年11月8日 
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; ℗ 2017 TOY'S FACTORY&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2017-11-26T19:50:12-07:00</updated>
+				
+					<id im:id="1305604232">https://itunes.apple.com/jp/album/%E6%B6%99%E3%81%AE%E7%A8%AE-%E5%B9%B8%E3%81%9B%E3%81%AE%E8%8A%B1/1305604230?i=1305604232&amp;uo=2</id>
+				
+					<title>涙の種、幸せの花 - ヒルクライム</title>
+				
+					
+				
+					<im:name>涙の種、幸せの花</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://itunes.apple.com/jp/album/%E6%B6%99%E3%81%AE%E7%A8%AE-%E5%B9%B8%E3%81%9B%E3%81%AE%E8%8A%B1/1305604230?i=1305604232&amp;uo=2"/>
+				
+					<im:contentType term="Music" label="ミュージック"><im:contentType term="Track" label="トラック"/></im:contentType>
+				
+					<category im:id="27" term="J-Pop" scheme="https://itunes.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-j-pop/id27?uo=2" label="J-Pop"/>
+				
+					<link title="プレビュー" rel="enclosure" type="audio/x-m4a" href="https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview118/v4/17/45/d6/1745d6bc-16ae-83ad-9e51-7f9f2f5b2018/mzaf_1341821350665858490.plus.aac.p.m4a" im:assetType="preview"><im:duration>30000</im:duration></link>
+				
+					<im:artist href="https://itunes.apple.com/jp/artist/%E3%83%92%E3%83%AB%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%A0/321412496?uo=2">ヒルクライム</im:artist>
+				
+					<im:price amount="250.00000" currency="JPY">¥250</im:price>
+				
+					<im:image height="55">http://is1.mzstatic.com/image/thumb/Music118/v4/a8/d2/20/a8d22039-6aea-1a69-22ff-7531392ab135/17UM1IM42597.jpg/55x55bb-85.jpg</im:image>
+				
+					<im:image height="60">http://is2.mzstatic.com/image/thumb/Music118/v4/a8/d2/20/a8d22039-6aea-1a69-22ff-7531392ab135/17UM1IM42597.jpg/60x60bb-85.jpg</im:image>
+				
+					<im:image height="170">http://is3.mzstatic.com/image/thumb/Music118/v4/a8/d2/20/a8d22039-6aea-1a69-22ff-7531392ab135/17UM1IM42597.jpg/170x170bb-85.jpg</im:image>
+				
+					<rights>A UNIVERSAL J release; &#8471;2017 UNIVERSAL MUSIC LLC</rights>
+				
+					<im:releaseDate label="2017年11月22日 ">2017-11-22T00:00:00-07:00</im:releaseDate>
+				
+					<im:collection><im:name>涙の種、幸せの花 - Single</im:name><link rel="alternate" type="text/html" href="https://itunes.apple.com/jp/album/namidano-tane-shiawaseno-hana-single/1305604230?uo=2"/><im:contentType term="Music" label="ミュージック"><im:contentType term="Album" label="アルバム"/></im:contentType></im:collection>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://itunes.apple.com/jp/album/%E6%B6%99%E3%81%AE%E7%A8%AE-%E5%B9%B8%E3%81%9B%E3%81%AE%E8%8A%B1/1305604230?i=1305604232&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;ヒルクライム - 涙の種、幸せの花 アートワーク&quot; src=&quot;http://is3.mzstatic.com/image/thumb/Music118/v4/a8/d2/20/a8d22039-6aea-1a69-22ff-7531392ab135/17UM1IM42597.jpg/170x170bb-85.jpg&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://itunes.apple.com/jp/album/%E6%B6%99%E3%81%AE%E7%A8%AE-%E5%B9%B8%E3%81%9B%E3%81%AE%E8%8A%B1/1305604230?i=1305604232&amp;uo=2&quot;&gt;涙の種、幸せの花&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+                            &lt;a href=&quot;https://itunes.apple.com/jp/album/namidano-tane-shiawaseno-hana-single/1305604230?uo=2&quot;&gt;涙の種、幸せの花 - Single&lt;/a&gt;&lt;br/&gt;
+                        
+
+                        &lt;a href=&quot;https://itunes.apple.com/jp/artist/%E3%83%92%E3%83%AB%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%A0/321412496?uo=2&quot;&gt;ヒルクライム&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;ジャンル:&lt;/b&gt; &lt;a href=&quot;https://itunes.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-j-pop/id27?uo=2&quot;&gt;J-Pop&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;価格:&lt;/b&gt; ¥250
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;リリース日:&lt;/b&gt; 2017年11月22日 
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; A UNIVERSAL J release; ℗2017 UNIVERSAL MUSIC LLC&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2017-11-26T19:50:12-07:00</updated>
+				
+					<id im:id="1304848189">https://itunes.apple.com/jp/album/%E3%81%BC%E3%81%AA%E3%81%BA%E3%81%A6%E3%81%83%E3%83%BC%E3%81%A8-s/1304847777?i=1304848189&amp;uo=2</id>
+				
+					<title>ぼなぺてぃーと▽S - ブレンド・A</title>
+				
+					
+				
+					<im:name>ぼなぺてぃーと▽S</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://itunes.apple.com/jp/album/%E3%81%BC%E3%81%AA%E3%81%BA%E3%81%A6%E3%81%83%E3%83%BC%E3%81%A8-s/1304847777?i=1304848189&amp;uo=2"/>
+				
+					<im:contentType term="Music" label="ミュージック"><im:contentType term="Track" label="トラック"/></im:contentType>
+				
+					<category im:id="29" term="Anime" scheme="https://itunes.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-%E3%82%A2%E3%83%8B%E3%83%A1/id29?uo=2" label="アニメ"/>
+				
+					<link title="プレビュー" rel="enclosure" type="audio/x-m4a" href="https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview128/v4/54/fd/98/54fd98da-38ef-ca32-64df-6f7f98297668/mzaf_5544248198120618014.plus.aac.p.m4a" im:assetType="preview"><im:duration>30000</im:duration></link>
+				
+					<im:artist href="https://itunes.apple.com/jp/artist/%E3%83%96%E3%83%AC%E3%83%B3%E3%83%89-a/1297197746?uo=2">ブレンド・A</im:artist>
+				
+					<im:price amount="250.00000" currency="JPY">¥250</im:price>
+				
+					<im:image height="55">http://is2.mzstatic.com/image/thumb/Music118/v4/3f/78/8d/3f788dd8-7892-a399-a505-2b4f21dcdaf7/jacket_SVWC70321B01A_550.jpg/55x55bb-85.jpg</im:image>
+				
+					<im:image height="60">http://is3.mzstatic.com/image/thumb/Music118/v4/3f/78/8d/3f788dd8-7892-a399-a505-2b4f21dcdaf7/jacket_SVWC70321B01A_550.jpg/60x60bb-85.jpg</im:image>
+				
+					<im:image height="170">http://is2.mzstatic.com/image/thumb/Music118/v4/3f/78/8d/3f788dd8-7892-a399-a505-2b4f21dcdaf7/jacket_SVWC70321B01A_550.jpg/170x170bb-85.jpg</im:image>
+				
+					<rights>&#8471; 2017 Aniplex Inc.</rights>
+				
+					<im:releaseDate label="2017年11月22日 ">2017-11-22T00:00:00-07:00</im:releaseDate>
+				
+					<im:collection><im:name>ぼなぺてぃーと▽S/デタラメなマイナスとプラスにおけるブレンド考 - EP</im:name><link rel="alternate" type="text/html" href="https://itunes.apple.com/jp/album/%E3%81%BC%E3%81%AA%E3%81%BA%E3%81%A6%E3%81%83%E3%83%BC%E3%81%A8-s-%E3%83%87%E3%82%BF%E3%83%A9%E3%83%A1%E3%81%AA%E3%83%9E%E3%82%A4%E3%83%8A%E3%82%B9%E3%81%A8%E3%83%97%E3%83%A9%E3%82%B9%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%83%96%E3%83%AC%E3%83%B3%E3%83%89%E8%80%83-ep/1304847777?uo=2"/><im:contentType term="Music" label="ミュージック"><im:contentType term="Album" label="アルバム"/></im:contentType></im:collection>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://itunes.apple.com/jp/album/%E3%81%BC%E3%81%AA%E3%81%BA%E3%81%A6%E3%81%83%E3%83%BC%E3%81%A8-s/1304847777?i=1304848189&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;ブレンド・A - ぼなぺてぃーと▽S アートワーク&quot; src=&quot;http://is2.mzstatic.com/image/thumb/Music118/v4/3f/78/8d/3f788dd8-7892-a399-a505-2b4f21dcdaf7/jacket_SVWC70321B01A_550.jpg/170x170bb-85.jpg&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://itunes.apple.com/jp/album/%E3%81%BC%E3%81%AA%E3%81%BA%E3%81%A6%E3%81%83%E3%83%BC%E3%81%A8-s/1304847777?i=1304848189&amp;uo=2&quot;&gt;ぼなぺてぃーと▽S&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+                            &lt;a href=&quot;https://itunes.apple.com/jp/album/%E3%81%BC%E3%81%AA%E3%81%BA%E3%81%A6%E3%81%83%E3%83%BC%E3%81%A8-s-%E3%83%87%E3%82%BF%E3%83%A9%E3%83%A1%E3%81%AA%E3%83%9E%E3%82%A4%E3%83%8A%E3%82%B9%E3%81%A8%E3%83%97%E3%83%A9%E3%82%B9%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%83%96%E3%83%AC%E3%83%B3%E3%83%89%E8%80%83-ep/1304847777?uo=2&quot;&gt;ぼなぺてぃーと▽S/デタラメなマイナスとプラスにおけるブレンド考 - EP&lt;/a&gt;&lt;br/&gt;
+                        
+
+                        &lt;a href=&quot;https://itunes.apple.com/jp/artist/%E3%83%96%E3%83%AC%E3%83%B3%E3%83%89-a/1297197746?uo=2&quot;&gt;ブレンド・A&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;ジャンル:&lt;/b&gt; &lt;a href=&quot;https://itunes.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-%E3%82%A2%E3%83%8B%E3%83%A1/id29?uo=2&quot;&gt;アニメ&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;価格:&lt;/b&gt; ¥250
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;リリース日:&lt;/b&gt; 2017年11月22日 
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; ℗ 2017 Aniplex Inc.&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2017-11-26T19:50:12-07:00</updated>
+				
+					<id im:id="1263790415">https://itunes.apple.com/jp/album/%E6%89%93%E4%B8%8A%E8%8A%B1%E7%81%AB/1263790414?i=1263790415&amp;uo=2</id>
+				
+					<title>打上花火 - DAOKO×米津玄師</title>
+				
+					
+				
+					<im:name>打上花火</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://itunes.apple.com/jp/album/%E6%89%93%E4%B8%8A%E8%8A%B1%E7%81%AB/1263790414?i=1263790415&amp;uo=2"/>
+				
+					<im:contentType term="Music" label="ミュージック"><im:contentType term="Track" label="トラック"/></im:contentType>
+				
+					<category im:id="27" term="J-Pop" scheme="https://itunes.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-j-pop/id27?uo=2" label="J-Pop"/>
+				
+					<link title="プレビュー" rel="enclosure" type="audio/x-m4a" href="https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview128/v4/49/cd/c8/49cdc8bf-9ffa-4312-88cf-ff12bf0e72a0/mzaf_7123693879677143341.plus.aac.p.m4a" im:assetType="preview"><im:duration>30000</im:duration></link>
+				
+					<im:artist href="https://itunes.apple.com/jp/artist/daoko/547853144?uo=2">DAOKO×米津玄師</im:artist>
+				
+					<im:price amount="250.00000" currency="JPY">¥250</im:price>
+				
+					<im:image height="55">http://is1.mzstatic.com/image/thumb/Music128/v4/23/1a/38/231a38d7-ad07-b9bb-6064-ee6c154a3069/TFCC-89632WW.jpg/55x55bb-85.jpg</im:image>
+				
+					<im:image height="60">http://is2.mzstatic.com/image/thumb/Music128/v4/23/1a/38/231a38d7-ad07-b9bb-6064-ee6c154a3069/TFCC-89632WW.jpg/60x60bb-85.jpg</im:image>
+				
+					<im:image height="170">http://is3.mzstatic.com/image/thumb/Music128/v4/23/1a/38/231a38d7-ad07-b9bb-6064-ee6c154a3069/TFCC-89632WW.jpg/170x170bb-85.jpg</im:image>
+				
+					<rights>&#8471; 2017 TOY&#39;S FACTORY</rights>
+				
+					<im:releaseDate label="2017年8月16日 ">2017-08-16T00:00:00-07:00</im:releaseDate>
+				
+					<im:collection><im:name>打上花火 - Single</im:name><link rel="alternate" type="text/html" href="https://itunes.apple.com/jp/album/uchiagehanabi-single/1263790414?uo=2"/><im:contentType term="Music" label="ミュージック"><im:contentType term="Album" label="アルバム"/></im:contentType></im:collection>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://itunes.apple.com/jp/album/%E6%89%93%E4%B8%8A%E8%8A%B1%E7%81%AB/1263790414?i=1263790415&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;DAOKO×米津玄師 - 打上花火 アートワーク&quot; src=&quot;http://is3.mzstatic.com/image/thumb/Music128/v4/23/1a/38/231a38d7-ad07-b9bb-6064-ee6c154a3069/TFCC-89632WW.jpg/170x170bb-85.jpg&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://itunes.apple.com/jp/album/%E6%89%93%E4%B8%8A%E8%8A%B1%E7%81%AB/1263790414?i=1263790415&amp;uo=2&quot;&gt;打上花火&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+                            &lt;a href=&quot;https://itunes.apple.com/jp/album/uchiagehanabi-single/1263790414?uo=2&quot;&gt;打上花火 - Single&lt;/a&gt;&lt;br/&gt;
+                        
+
+                        &lt;a href=&quot;https://itunes.apple.com/jp/artist/daoko/547853144?uo=2&quot;&gt;DAOKO×米津玄師&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;ジャンル:&lt;/b&gt; &lt;a href=&quot;https://itunes.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-j-pop/id27?uo=2&quot;&gt;J-Pop&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;価格:&lt;/b&gt; ¥250
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;リリース日:&lt;/b&gt; 2017年8月16日 
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; ℗ 2017 TOY'S FACTORY&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2017-11-26T19:50:12-07:00</updated>
+				
+					<id im:id="1304787244">https://itunes.apple.com/jp/album/%E3%81%82%E3%81%AE%E6%97%A5%E3%81%AE%E3%82%AD%E3%83%9F%E3%81%A8%E4%BB%8A%E3%81%AE%E5%83%95%E3%81%AB/1304787235?i=1304787244&amp;uo=2</id>
+				
+					<title>あの日のキミと今の僕に - DOBERMAN INFINITY</title>
+				
+					
+				
+					<im:name>あの日のキミと今の僕に</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://itunes.apple.com/jp/album/%E3%81%82%E3%81%AE%E6%97%A5%E3%81%AE%E3%82%AD%E3%83%9F%E3%81%A8%E4%BB%8A%E3%81%AE%E5%83%95%E3%81%AB/1304787235?i=1304787244&amp;uo=2"/>
+				
+					<im:contentType term="Music" label="ミュージック"><im:contentType term="Track" label="トラック"/></im:contentType>
+				
+					<category im:id="18" term="Hip Hop/Rap" scheme="https://itunes.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-%E3%83%92%E3%83%83%E3%83%97%E3%83%9B%E3%83%83%E3%83%97-%E3%83%A9%E3%83%83%E3%83%97/id18?uo=2" label="ヒップホップ／ラップ"/>
+				
+					<link title="プレビュー" rel="enclosure" type="audio/x-m4a" href="https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview128/v4/67/fe/52/67fe5210-8726-63a4-0cd7-4eafdfdb5ee1/mzaf_1964636123508279424.plus.aac.p.m4a" im:assetType="preview"><im:duration>30000</im:duration></link>
+				
+					<im:artist href="https://itunes.apple.com/jp/artist/doberman-infinity/907326114?uo=2">DOBERMAN INFINITY</im:artist>
+				
+					<im:price amount="250.00000" currency="JPY">¥250</im:price>
+				
+					<im:image height="55">http://is1.mzstatic.com/image/thumb/Music128/v4/26/c5/3e/26c53e49-eda2-77e6-5156-349d1574432d/XNLD-10010.jpg/55x55bb-85.jpg</im:image>
+				
+					<im:image height="60">http://is2.mzstatic.com/image/thumb/Music128/v4/26/c5/3e/26c53e49-eda2-77e6-5156-349d1574432d/XNLD-10010.jpg/60x60bb-85.jpg</im:image>
+				
+					<im:image height="170">http://is1.mzstatic.com/image/thumb/Music128/v4/26/c5/3e/26c53e49-eda2-77e6-5156-349d1574432d/XNLD-10010.jpg/170x170bb-85.jpg</im:image>
+				
+					<rights>&#8471; LDH Music&amp;Publishing</rights>
+				
+					<im:releaseDate label="2017年11月22日 ">2017-11-22T00:00:00-07:00</im:releaseDate>
+				
+					<im:collection><im:name>あの日のキミと今の僕に - Single</im:name><link rel="alternate" type="text/html" href="https://itunes.apple.com/jp/album/%E3%81%82%E3%81%AE%E6%97%A5%E3%81%AE%E3%82%AD%E3%83%9F%E3%81%A8%E4%BB%8A%E3%81%AE%E5%83%95%E3%81%AB-single/1304787235?uo=2"/><im:contentType term="Music" label="ミュージック"><im:contentType term="Album" label="アルバム"/></im:contentType></im:collection>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://itunes.apple.com/jp/album/%E3%81%82%E3%81%AE%E6%97%A5%E3%81%AE%E3%82%AD%E3%83%9F%E3%81%A8%E4%BB%8A%E3%81%AE%E5%83%95%E3%81%AB/1304787235?i=1304787244&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;DOBERMAN INFINITY - あの日のキミと今の僕に アートワーク&quot; src=&quot;http://is1.mzstatic.com/image/thumb/Music128/v4/26/c5/3e/26c53e49-eda2-77e6-5156-349d1574432d/XNLD-10010.jpg/170x170bb-85.jpg&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://itunes.apple.com/jp/album/%E3%81%82%E3%81%AE%E6%97%A5%E3%81%AE%E3%82%AD%E3%83%9F%E3%81%A8%E4%BB%8A%E3%81%AE%E5%83%95%E3%81%AB/1304787235?i=1304787244&amp;uo=2&quot;&gt;あの日のキミと今の僕に&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+                            &lt;a href=&quot;https://itunes.apple.com/jp/album/%E3%81%82%E3%81%AE%E6%97%A5%E3%81%AE%E3%82%AD%E3%83%9F%E3%81%A8%E4%BB%8A%E3%81%AE%E5%83%95%E3%81%AB-single/1304787235?uo=2&quot;&gt;あの日のキミと今の僕に - Single&lt;/a&gt;&lt;br/&gt;
+                        
+
+                        &lt;a href=&quot;https://itunes.apple.com/jp/artist/doberman-infinity/907326114?uo=2&quot;&gt;DOBERMAN INFINITY&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;ジャンル:&lt;/b&gt; &lt;a href=&quot;https://itunes.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-%E3%83%92%E3%83%83%E3%83%97%E3%83%9B%E3%83%83%E3%83%97-%E3%83%A9%E3%83%83%E3%83%97/id18?uo=2&quot;&gt;ヒップホップ／ラップ&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;価格:&lt;/b&gt; ¥250
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;リリース日:&lt;/b&gt; 2017年11月22日 
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; ℗ LDH Music&amp;amp;Publishing&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2017-11-26T19:50:12-07:00</updated>
+				
+					<id im:id="1297260555">https://itunes.apple.com/jp/album/here/1297260553?i=1297260555&amp;uo=2</id>
+				
+					<title>Here - JUNNA</title>
+				
+					
+				
+					<im:name>Here</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://itunes.apple.com/jp/album/here/1297260553?i=1297260555&amp;uo=2"/>
+				
+					<im:contentType term="Music" label="ミュージック"><im:contentType term="Track" label="トラック"/></im:contentType>
+				
+					<category im:id="29" term="Anime" scheme="https://itunes.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-%E3%82%A2%E3%83%8B%E3%83%A1/id29?uo=2" label="アニメ"/>
+				
+					<link title="プレビュー" rel="enclosure" type="audio/x-m4a" href="https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview128/v4/f5/b3/d9/f5b3d98f-3085-3490-d69a-b001df82c07c/mzaf_2920073781267082210.plus.aac.p.m4a" im:assetType="preview"><im:duration>30000</im:duration></link>
+				
+					<im:artist href="https://itunes.apple.com/jp/artist/junna/576985728?uo=2">JUNNA</im:artist>
+				
+					<im:price amount="250.00000" currency="JPY">¥250</im:price>
+				
+					<im:image height="55">http://is1.mzstatic.com/image/thumb/Music128/v4/bf/56/7d/bf567d87-23d0-c0f6-d546-ccf8c9b6b121/VEATP-34790.jpg/55x55bb-85.jpg</im:image>
+				
+					<im:image height="60">http://is2.mzstatic.com/image/thumb/Music128/v4/bf/56/7d/bf567d87-23d0-c0f6-d546-ccf8c9b6b121/VEATP-34790.jpg/60x60bb-85.jpg</im:image>
+				
+					<im:image height="170">http://is5.mzstatic.com/image/thumb/Music128/v4/bf/56/7d/bf567d87-23d0-c0f6-d546-ccf8c9b6b121/VEATP-34790.jpg/170x170bb-85.jpg</im:image>
+				
+					<rights>&#8471; (C)ヤマザキコレ/マッグガーデン・魔法使いの嫁製作委員会</rights>
+				
+					<im:releaseDate label="2017年11月1日 ">2017-11-01T00:00:00-07:00</im:releaseDate>
+				
+					<im:collection><im:name>Here - Single</im:name><link rel="alternate" type="text/html" href="https://itunes.apple.com/jp/album/here-single/1297260553?uo=2"/><im:contentType term="Music" label="ミュージック"><im:contentType term="Album" label="アルバム"/></im:contentType></im:collection>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://itunes.apple.com/jp/album/here/1297260553?i=1297260555&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;JUNNA - Here アートワーク&quot; src=&quot;http://is5.mzstatic.com/image/thumb/Music128/v4/bf/56/7d/bf567d87-23d0-c0f6-d546-ccf8c9b6b121/VEATP-34790.jpg/170x170bb-85.jpg&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://itunes.apple.com/jp/album/here/1297260553?i=1297260555&amp;uo=2&quot;&gt;Here&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+                            &lt;a href=&quot;https://itunes.apple.com/jp/album/here-single/1297260553?uo=2&quot;&gt;Here - Single&lt;/a&gt;&lt;br/&gt;
+                        
+
+                        &lt;a href=&quot;https://itunes.apple.com/jp/artist/junna/576985728?uo=2&quot;&gt;JUNNA&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;ジャンル:&lt;/b&gt; &lt;a href=&quot;https://itunes.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-%E3%82%A2%E3%83%8B%E3%83%A1/id29?uo=2&quot;&gt;アニメ&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;価格:&lt;/b&gt; ¥250
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;リリース日:&lt;/b&gt; 2017年11月1日 
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; ℗ (C)ヤマザキコレ/マッグガーデン・魔法使いの嫁製作委員会&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2017-11-26T19:50:12-07:00</updated>
+				
+					<id im:id="1300003713">https://itunes.apple.com/jp/album/%E3%83%9E%E3%82%BF%E3%82%A2%E3%82%A4%E3%83%9E%E3%82%B7%E3%83%A7%E3%82%A6/1300002717?i=1300003713&amp;uo=2</id>
+				
+					<title>マタアイマショウ - 山猿</title>
+				
+					
+				
+					<im:name>マタアイマショウ</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://itunes.apple.com/jp/album/%E3%83%9E%E3%82%BF%E3%82%A2%E3%82%A4%E3%83%9E%E3%82%B7%E3%83%A7%E3%82%A6/1300002717?i=1300003713&amp;uo=2"/>
+				
+					<im:contentType term="Music" label="ミュージック"><im:contentType term="Track" label="トラック"/></im:contentType>
+				
+					<category im:id="27" term="J-Pop" scheme="https://itunes.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-j-pop/id27?uo=2" label="J-Pop"/>
+				
+					<link title="プレビュー" rel="enclosure" type="audio/x-m4a" href="https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview118/v4/68/ca/2d/68ca2dae-ef99-7b00-0216-9ffec77128f8/mzaf_3401340792663137096.plus.aac.p.m4a" im:assetType="preview"><im:duration>30000</im:duration></link>
+				
+					<im:artist href="https://itunes.apple.com/jp/artist/%E5%B1%B1%E7%8C%BF/269200470?uo=2">山猿</im:artist>
+				
+					<im:price amount="250.00000" currency="JPY">¥250</im:price>
+				
+					<im:image height="55">http://is1.mzstatic.com/image/thumb/Music128/v4/f0/df/d6/f0dfd6f4-2b2b-08aa-1a44-b3570cc1d525/jacket_ESCL04950B01A_550.jpg/55x55bb-85.jpg</im:image>
+				
+					<im:image height="60">http://is2.mzstatic.com/image/thumb/Music128/v4/f0/df/d6/f0dfd6f4-2b2b-08aa-1a44-b3570cc1d525/jacket_ESCL04950B01A_550.jpg/60x60bb-85.jpg</im:image>
+				
+					<im:image height="170">http://is3.mzstatic.com/image/thumb/Music128/v4/f0/df/d6/f0dfd6f4-2b2b-08aa-1a44-b3570cc1d525/jacket_ESCL04950B01A_550.jpg/170x170bb-85.jpg</im:image>
+				
+					<rights>&#8471; 2017 Epic Records Japan</rights>
+				
+					<im:releaseDate label="2017年11月22日 ">2017-11-22T00:00:00-07:00</im:releaseDate>
+				
+					<im:collection><im:name>えんむすび</im:name><link rel="alternate" type="text/html" href="https://itunes.apple.com/jp/album/%E3%81%88%E3%82%93%E3%82%80%E3%81%99%E3%81%B3/1300002717?uo=2"/><im:contentType term="Music" label="ミュージック"><im:contentType term="Album" label="アルバム"/></im:contentType></im:collection>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://itunes.apple.com/jp/album/%E3%83%9E%E3%82%BF%E3%82%A2%E3%82%A4%E3%83%9E%E3%82%B7%E3%83%A7%E3%82%A6/1300002717?i=1300003713&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;山猿 - マタアイマショウ アートワーク&quot; src=&quot;http://is3.mzstatic.com/image/thumb/Music128/v4/f0/df/d6/f0dfd6f4-2b2b-08aa-1a44-b3570cc1d525/jacket_ESCL04950B01A_550.jpg/170x170bb-85.jpg&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://itunes.apple.com/jp/album/%E3%83%9E%E3%82%BF%E3%82%A2%E3%82%A4%E3%83%9E%E3%82%B7%E3%83%A7%E3%82%A6/1300002717?i=1300003713&amp;uo=2&quot;&gt;マタアイマショウ&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+                            &lt;a href=&quot;https://itunes.apple.com/jp/album/%E3%81%88%E3%82%93%E3%82%80%E3%81%99%E3%81%B3/1300002717?uo=2&quot;&gt;えんむすび&lt;/a&gt;&lt;br/&gt;
+                        
+
+                        &lt;a href=&quot;https://itunes.apple.com/jp/artist/%E5%B1%B1%E7%8C%BF/269200470?uo=2&quot;&gt;山猿&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;ジャンル:&lt;/b&gt; &lt;a href=&quot;https://itunes.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-j-pop/id27?uo=2&quot;&gt;J-Pop&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;価格:&lt;/b&gt; ¥250
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;リリース日:&lt;/b&gt; 2017年11月22日 
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; ℗ 2017 Epic Records Japan&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+	</feed>
